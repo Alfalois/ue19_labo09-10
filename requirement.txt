@@ -1,0 +1,4 @@
+# requirements :
+A Network connected device (pc or desktop)
+Docker
+Python compiler
